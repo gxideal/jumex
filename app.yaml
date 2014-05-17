@@ -10,10 +10,12 @@ handlers:
   upload: favicon\.ico
 
 - url: /js
-static_dir: js
+  static_dir: js
+  expiration: "1d 0m"
 
 - url: /css
-static_dir: css
+  static_dir: css
+  expiration: "1d 0m"
 
 
 - url: /(.+\.(gif|png|jpg|css|js))$
