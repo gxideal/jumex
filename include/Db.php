@@ -3,6 +3,7 @@ error_reporting(0);
 class Db{
 	private $_link;
    private function __construct($dbconfig){
+   	print_r($dbconfig);
      $this -> _link = mysql_connect($dbconfig['dbhost'],$dbconfig['dbuser'],$dbconfig['dbpw'])or die('服务器连接失败');
 	 
 	  	mysql_select_db($dbconfig['dbname'],$this->_link) or die("指定数据库不存在");
