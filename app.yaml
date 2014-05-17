@@ -9,10 +9,6 @@ handlers:
   static_files: favicon.ico
   upload: favicon\.ico
 
-- url: /lang
-  static_dir: lang 
-  expiration: "1d 0m"
-
 
 - url: /(.+\.(gif|png|jpg|css|js))$
   static_files: \1
