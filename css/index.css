@@ -1,0 +1,368 @@
+﻿body,*{margin:0px;padding:0px;}
+#index_div{width:100%; background:url(../images/bg2.png); overflow:hidden;}
+#indexbody_div{width:960px; margin:0px auto;background:url(../images/newmap.png) no-repeat -61px -106px; height:875px; position:relative}
+#indexloge_div{
+	padding-top:35px;
+	position:absolute;
+	top: 1px;
+}
+
+#Flensburg{
+	position:absolute;
+	background:url(../images/tin1.png) no-repeat;
+	width:17px;
+	height:22px;
+	left: 632px;
+	top: 59px;
+}
+#Hamburg{
+	position:absolute;
+	background:url(../images/tin1.png) no-repeat;
+	width:17px;
+	height:22px;
+	left: 628px;
+	top: 128px;
+}
+#Bremen{
+	position:absolute;
+	background:url(../images/tin1.png) no-repeat;
+	width:17px;
+	height:22px;
+	left: 564px;
+	top: 168px;
+}
+#Celle{
+	position:absolute;
+	background:url(../images/tin1.png) no-repeat;
+	width:17px;
+	height:22px;
+	top: 202px;
+	left: 652px;
+}
+#Berlin{
+	position:absolute;
+	background:url(../images/tin1.png) no-repeat;
+	width:17px;
+	height:22px;
+	left: 820px;
+	top: 231px;
+}
+
+#Hanover{
+	position:absolute;
+	background:url(../images/tin1.png) no-repeat;
+	width:17px;
+	height:22px;
+	left: 610px;
+	top: 236px;
+}
+
+#Laatzen{
+	position:absolute;
+	background:url(../images/tin1.png) no-repeat;
+	width:17px;
+	height:22px;
+	left: 650px;
+	top: 249px;
+}
+#Herne{
+	position:absolute;
+	background:url(../images/tin1.png) no-repeat;
+	width:17px;
+	height:22px;
+	left: 490px;
+	top: 262px;
+}
+#Hameln{
+	position:absolute;
+	background:url(../images/tin1.png) no-repeat;
+	width:17px;
+	height:22px;
+	left: 568px;
+	top: 274px;
+}
+#Duisburg{
+	position:absolute;
+	background:url(../images/tin1.png) no-repeat;
+	width:17px;
+	height:22px;
+	left: 435px;
+	top: 282px;
+}
+#Dortmund{
+	position:absolute;
+	background:url(../images/tin1.png) no-repeat;
+	width:17px;
+	height:22px;
+	left: 505px;
+	top: 294px;
+	}
+#Krefeld{
+	position:absolute;
+	background:url(../images/tin1.png) no-repeat;
+	width:17px;
+	height:22px;
+	left: 421px;
+	top: 312px;
+}
+#Wuppertal{
+	position:absolute;
+	background:url(../images/tin1.png) no-repeat;
+	width:17px;
+	height:22px;
+	left: 482px;
+	top: 318px;
+}
+#Leverkusen{
+	position:absolute;
+	background:url(../images/tin1.png) no-repeat;
+	width:17px;
+	height:22px;
+	left: 465px;
+	top: 332px;
+}
+#Düsseldorf{
+	position:absolute;
+	background:url(../images/tin1.png) no-repeat;
+	width:17px;
+	height:22px;
+	left: 440px;
+	top: 333px;
+	}
+#Köln{
+	position:absolute;
+	background:url(../images/tin1.png) no-repeat;
+	width:17px;
+	height:22px;
+	left: 464px;
+	top: 356px;
+}
+#Siegen{
+	position:absolute;
+	background:url(../images/tin1.png) no-repeat;
+	width:17px;
+	height:22px;
+	left: 519px;
+	top: 358px;
+}
+#Neuss{
+	position:absolute;
+	background:url(../images/tin1.png) no-repeat;
+	width:17px;
+	height:22px;
+	left: 443px;
+	top: 301px;
+}
+#Düren{
+	position:absolute;
+	background:url(../images/tin1.png) no-repeat;
+	width:17px;
+	height:22px;
+	left: 455px;
+	top: 376px;
+}
+#Bonn{
+	position:absolute;
+	background:url(../images/tin1.png) no-repeat;
+	width:17px;
+	height:22px;
+	left: 490px;
+	top: 382px;
+	}
+#Kassel{
+	position:absolute;
+	background:url(../images/tin1.png) no-repeat;
+	width:17px;
+	height:22px;
+	left: 597px;
+	top: 381px;
+}
+#Koblenz{
+	position:absolute;
+	background:url(../images/tin1.png) no-repeat;
+	width:17px;
+	height:22px;
+	left: 437px;
+	top: 427px;
+}
+#Wiesbaden{
+	position:absolute;
+	background:url(../images/tin1.png) no-repeat;
+	width:17px;
+	height:22px;
+	left: 546px;
+	top: 447px;
+	}
+#Wetzlar{
+	position:absolute;
+	background:url(../images/tin1.png) no-repeat;
+	width:17px;
+	height:22px;
+	left: 566px;
+	top: 420px;
+	}
+#Frankfurt{
+	position:absolute;
+	background:url(../images/tin1.png) no-repeat;
+	width:17px;
+	height:22px;
+	left: 574px;
+	top: 447px;
+	}
+#Trier{
+	position:absolute;
+	background:url(../images/tin1.png) no-repeat;
+	width:17px;
+	height:22px;
+	left: 430px;
+	top: 470px;
+	}
+#Mainz{
+	position:absolute;
+	background:url(../images/tin1.png) no-repeat;
+	width:17px;
+	height:22px;
+	left: 522px;
+	top: 456px;
+}
+#Nürnberg{
+	position:absolute;
+	background:url(../images/tin1.png) no-repeat;
+	width:17px;
+	height:22px;
+	left: 652px;
+	top: 479px;
+	}
+#Neunkirchen{
+	position:absolute;
+	background:url(../images/tin1.png) no-repeat;
+	width:17px;
+	height:22px;
+	left: 475px;
+	top: 502px;
+	}
+#Saarbrücken{
+	position:absolute;
+	background:url(../images/tin1.png) no-repeat;
+	width:17px;
+	height:22px;
+	left: 446px;
+	top: 513px;
+	}
+#Heidelberg{
+	position:absolute;
+	background:url(../images/tin1.png) no-repeat;
+	width:17px;
+	height:22px;
+	left: 559px;
+	top: 518px;
+	}
+#Ingolstadt{
+	position:absolute;
+	background:url(../images/tin1.png) no-repeat;
+	width:17px;
+	height:22px;
+	left: 647px;
+	top: 524px;
+	}
+#München{
+	position:absolute;
+	background:url(../images/tin1.png) no-repeat;
+	width:17px;
+	height:22px;
+	left: 718px;
+	top: 620px;
+}
+#BergenOpZoom{
+	position:absolute;
+	background:url(../images/tin1.png) no-repeat;
+	width:17px;
+	height:22px;
+	left: 312px;
+	top: 311px;
+}
+#Kapellen{
+	position:absolute;
+	background:url(../images/tin1.png) no-repeat;
+	width:17px;
+	height:22px;
+	left: 306px;
+	top: 337px;
+	}
+#Roeselare{
+	position:absolute;
+	background:url(../images/tin1.png) no-repeat;
+	width:17px;
+	height:22px;
+	left: 231px;
+	top: 368px;
+	}
+#Messancy{
+	position:absolute;
+	background:url(../images/tin1.png) no-repeat;
+	width:17px;
+	height:22px;
+	left: 379px;
+	top: 499px;
+	}
+#Lübeck{
+	position:absolute;
+	background:url(../images/tin1.png) no-repeat;
+	width:17px;
+	height:22px;
+	top: 95px;
+	left: 667px;
+	}	
+#Hildesheim{
+	position:absolute;
+	background:url(../images/tin1.png) no-repeat;
+	width:17px;
+	height:22px;
+	left: 621px;
+	top: 274px;
+	}
+
+#Essen{
+	position:absolute;
+	background:url(../images/tin1.png) no-repeat;
+	width:17px;
+	height:22px;
+	left: 472px;
+	top: 285px;
+	}
+#Ludwigshafen{
+	position:absolute;
+	background:url(../images/tin1.png) no-repeat;
+	width:17px;
+	height:22px;
+	left: 530px;
+	top: 495px;
+}
+#Kaufbeuren{
+	position:absolute;
+	background:url(../images/tin1.png) no-repeat;
+	width:17px;
+	height:22px;
+	left: 654px;
+	top: 633px;
+	}
+
+#clear{ clear:both;}
+#index_cont{position:fixed; bottom:70px;}
+
+#indexbody_div2{width:960px; margin:0px auto; background-color:#0F6;}
+
+
+#index_cont2{position:fixed; bottom:70px;}
+#index_cont3{position:fixed; bottom:0px; background:#fff url(../images/home_02.png) repeat-x; width:100%; }
+#aa{margin:0px auto; width:720px; clear:both;padding:15px 0px 15px 20px;}
+#cont1{ float:left; width:240px;}
+#cont2{ float:left;  width:240px;}
+
+#img{margin-left:20px}
+#add{ font-size:14px; font-family:Arial, Helvetica, sans-serif; color:#000; margin:5px auto; font-weight:800; text-align:center;}
+#city{font-size:14px; font-family:Arial, Helvetica, sans-serif; color:#6c6c6c; text-align:center;}
+
+#img1{margin-left:35px}
+#add1{ font-size:12px; font-family:Arial, Helvetica, sans-serif; color:#000; margin:5px auto; font-weight:800;text-align:center;}
+#city1{font-size:12px; font-family:Arial, Helvetica, sans-serif; color:#6c6c6c; text-align:center;}

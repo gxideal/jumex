@@ -1,0 +1,31 @@
+<?php
+$_LANG["head"]["home"]="HOME";
+$_LANG["head"]["about"]="ÜBER";
+$_LANG["head"]["chainome"]="UNSERER";
+$_LANG["head"]["contact"]="JOBS";
+$_LANG["head"]["jionus"]="JOIN US";
+
+
+
+$_LANG["aboutour"]["tit"]="ÜBER";
+$_LANG["aboutour"]["info"] = "JUMEX ist eine schnell wachsende Schuhtrendkette für Damenschuhmode, die seit zwei Jahren in Deutschland, Belgien, Luxemburg und Niederlande mehr als  50 Mal vertreten ist.<br/><br/>Bereits in deutschen Großtädten wie Köln, Hamburg, Berlin, Frankfurt, München genießt JUMEX immer mehr an Bedeutung und Beliebtheit.<br/><br/>Jede Woche kommen Neuheiten in unsere Filialen und die Art, wie wir unsere Waren und Trends darstellen, ändert sich auch. Egal wie häufig unsere Kundin die Filiale betritt, sie findet stets neue und trendbewusste Schuhmode bei uns.<br/><br/>Wir haben sowohl sehr farbenfrohe als auch schlichte Modelle, gehen aber immer mit der Mode und möchten jüngere und ältere Frauen ansprechen."; 
+
+$_LANG["shoplist"]["tit"]="UNSERER";
+$_LANG["shoplist"]["name"] = "NAMEN";
+$_LANG["shoplist"]["add"] = "ADD.";
+$_LANG["shoplist"]["pc"] = "PC";
+$_LANG["shoplist"]["city"] = "CITY";
+$_LANG["shoplist"]["country"] = "LAND";
+$_LANG["shoplist"]["email"] = "E-MALL";
+
+
+$_LANG["contact"]["tit"]="JOIN US";
+$_LANG["contact"]["info"] = "S.P. ShoePlanet GmbH<br/><br/>Duisburger Str. 3A<br/><br/>41460 Neuss<br/>Geschäftsführer: Qiaowen Wu<br/><br/>USt-ID:&nbsp;&nbsp;DE256029463<br/><br/>HRB:   14283&nbsp;&nbsp;&nbsp;Amtsgericht Neuss";
+
+
+
+$_LANG["joblist"]["tit"]="JOBS";
+$_LANG["joblist"]["manager"] = "Manager";
+$_LANG["joblist"]["info"]="Für alle Presse, Sponsoring oder Fan enqiries, wenden Sie sich bitte per E-Mail";
+$_LANG["joblist"]["info2"]="zur Zeit sind alle Arbeitsplätze bereits vergeben."; 
+?>
