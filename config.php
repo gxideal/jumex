@@ -7,9 +7,9 @@ $_SC2= array();
 // $_SC2['dbname'] = 'jumex';						//SupeSite数据库名
 
 
-$_SC2['dbhost'] = ':/cloudsql/cd-jumex:shared';					//SupeSite数据库服务器(一般为本地localhost)
+$_SC2['dbhost'] = ':/cloudsql/cd-luxbuy:shared';					//SupeSite数据库服务器(一般为本地localhost)
 $_SC2['dbuser'] = 'root';					//SupeSite数据库用户名
-$_SC2['dbpw'] = 'eZPrH67UDGBCLzhz';						//SupeSite数据库密码
+$_SC2['dbpw'] = '';						//SupeSite数据库密码
 $_SC2['dbname'] = 'jumex';						//SupeSite数据库名	
 	
 
